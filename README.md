@@ -1,2 +1,2 @@
 # Apna-college---delta-project
-Delta project add on github
+Delta project add on github.
